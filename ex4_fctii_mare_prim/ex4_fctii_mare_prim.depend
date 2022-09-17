@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663430732 source:c:\users\gabri\work with dad\pb_cls_x\ex4_fctii_mare_prim\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+
